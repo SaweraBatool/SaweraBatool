@@ -1,11 +1,16 @@
-- 👋 Assalam O Alaikum, I'm Sawera Batool, a curious and ambitious individual from Karachi Pakistan, passionate about technology and innovation.
+- 👋 Assalam O Alaikum, I'm Sawera Batool
+- 🔗 A curious and ambitious individual from Karachi Pakistan, passionate about technology and innovation.
 - 👀 I’m excited to learn, grow, and connect with like-minded developers, and I'm looking forward to contributing to the tech community.
-- 🌱 I’m currently studying Generative AI, Metaverse, and Web 3.0 at the Governor House, Karachi, with a focus on building a strong foundation in programming.
+- 🌱 I’m currently studying Generative AI, Metaverse, and Web 3.0 at the Governor House with a focus on building a strong foundation in programming.
 - ✨ Completed coursework in TypeScript and Object-Oriented Programming (OOP).
-- 💞️ I’m looking to collaborate and contribute to interesting projects.
-- 🥀 I'm a beginner in coding, excited to learn and grow. Currently studying HTML, CSS, and JavaScript on Codecademy.
-- 🦋 Working on building a personal website.
-- 😇 Pronouns: ... She/her
+- 💞️ Looking forward to collaborating on projects and gaining more experience.
+- 🥀 As a beginner, I'm excited to learn and improve my coding skills.
+- 💻 Technologies & Tools:
+-   TypeScript
+-   JavaScript
+-   HTML/CSS
+-   Node.js
+- 🦋 Pronouns: ... She/her
 
 <!---
 SaweraBatool/SaweraBatool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
